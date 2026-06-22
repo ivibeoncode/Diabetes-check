@@ -76,10 +76,4 @@ diabetacheck/
 
 ---
 
-## 👥 Team
-
-Capstone Project Team 8 — AI in Healthcare, IIT Delhi CEP
-
----
-
 *For academic and demonstration purposes only. Not for clinical use.*
