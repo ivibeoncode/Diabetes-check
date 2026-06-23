@@ -8,7 +8,7 @@ A machine learning web application that classifies patients into three diabetes 
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetes-check-gdratshjsfwhkpdxu7pesx.streamlit.app)
 
 ---
 
